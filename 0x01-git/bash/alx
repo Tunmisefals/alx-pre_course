@@ -1,7 +1,5 @@
-HEAD
 echo ALX
-<<<<<<< HEAD
+ HEAD
 echo ALX School is open
-=======
 echo ALX school
->>>>>>> update_script
+update_script
